@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.heading{
+    background-image: url(assets/140.jpg);
+    position: sticky;
+    object-fit: cover;
+    background-size: 100vw 120vh;
+    /* background-size: 100% 100%; */
+    background-repeat: no-repeat;
+    height: 120vh;
+    width: 100vw;
+    clear:both;
+}
+
+.text1{
+    color: white;
+    font-size: 65px;
+    font-family: "PMingLiU";
+    font-weight: "bold";
+    text-shadow: 5px 10px 7px black;
+    text-align: center;
+    top: 55vh;
+    position: relative;
+}
+
+.footer{
+   height: 50vh;
+   background-color:gainsboro;
+}
+
+.text2{
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    font-family: "PMingLiU";
+    font-weight: "bold";
+    position: relative;
+    top: 20vh;
+    line-height: 1.6;
+}
